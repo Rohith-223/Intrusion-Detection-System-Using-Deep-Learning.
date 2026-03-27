@@ -115,6 +115,7 @@ def predict_df(df: pd.DataFrame):
         "top_10_risky_rows": top_risky,
         "first_20_predictions": first20
     }
+# Frontend
 
 # index
 
